@@ -1,6 +1,7 @@
 #Challenge-1
 
 ##Description
+git
 Challenge 1 coursework for UT coding bootcamp.
 use starter code to make the website more accessible.
 
@@ -14,6 +15,7 @@ a simple website with accessible UI
 N/A
 
 ##What I Learned
+
 I learned how to edit HTML Non-Semantic Elements into Semantic Elements and to make websites more accessible 
 
 ##License
